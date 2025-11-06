@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khithar
-- 👀 I’m interested in Java :)
+- 👀 I’m interested in Java, GraalVM, native-image :)
 - 🌱 I’m currently learning more Java :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
