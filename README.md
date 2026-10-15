@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khithar
-- 👀 I’m interested in Java, GraalVM, native-image :)
-- 🌱 I’m currently learning more Java :)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java, GraalVM, native-image
+- 🌱 and yes, i turned into a vibe coder :)
+- 💞️ I’m looking to collaborate on ... no se
 - 📫 How to reach me ...
 
 <!---
